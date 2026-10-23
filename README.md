@@ -1,6 +1,6 @@
-# ジェットインパルス NDS 한국어 패치 v1.0
+# ジェットインパルス NDS 한국어 패치 v1.1
 
-배포일: 2026-10-22
+배포일: 2026-10-23
 대상: Jet Impulse 일본판
 
 배포 ZIP에는 원본 ROM이나 패치 완료 ROM이 포함되지 않습니다. 정품에서 추출한 아래 해시와 일치하는 일본판 NDS ROM이 필요합니다.
@@ -15,11 +15,11 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| JetImpulse-KO-v1.0.nds | 134,217,728 | 14e89bcad5836c48a28e53e35ac009aa915e46531f9acc60dc3d24d7dbc0d8a7 |
+| JetImpulse-KO-v1.1.nds | 134,217,728 | b85bbc0b25731ff181fb13cfa1d273b69ea7f8605d15d19bf17bac67d530b47d |
 
 ## 배포 파일
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| JetImpulse-KO-v1.0.zip | 666,417 | cdea53e34471ff8e4e5941e6bfc08d4b75c1f66efc5e77f78c2500ae81ac1099 |
-| JetImpulse-KO-v1.0.bps | 1,090,866 | 711bfae24ec873e3b1f64e36d5f9e312d21e4686aca2ad48893d31e3a6dab118 |
+| JetImpulse-KO-v1.1.zip | 822,903 | 626b1f2b9de889ef467c41ed9f4f87281185d34af99a307f0c30721e165db95d |
+| JetImpulse-KO-v1.1.bps | 1,398,939 | 4d5ebd1510934e2426b0224bd36dc4a48d52c61aaf9733acd79de84ab295b792 |
